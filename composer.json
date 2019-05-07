@@ -1,0 +1,14 @@
+{
+    "name": "capeandbay-devs/trufit-data-repo",
+    "description": "Laravel Package for Interfacing with Trufit Databases",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angel Gonzalez",
+            "email": "angel@capeandbay.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
